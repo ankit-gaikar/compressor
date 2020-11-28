@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "ankit-gaikar.github.io/compressor/static/js/main.1fbb46b4.chunk.js",
+    "main.js.map": "ankit-gaikar.github.io/compressor/static/js/main.1fbb46b4.chunk.js.map",
+    "runtime-main.js": "ankit-gaikar.github.io/compressor/static/js/runtime-main.77121b12.js",
+    "runtime-main.js.map": "ankit-gaikar.github.io/compressor/static/js/runtime-main.77121b12.js.map",
+    "static/css/2.0624914a.chunk.css": "ankit-gaikar.github.io/compressor/static/css/2.0624914a.chunk.css",
+    "static/js/2.69fef3bc.chunk.js": "ankit-gaikar.github.io/compressor/static/js/2.69fef3bc.chunk.js",
+    "static/js/2.69fef3bc.chunk.js.map": "ankit-gaikar.github.io/compressor/static/js/2.69fef3bc.chunk.js.map",
+    "index.html": "ankit-gaikar.github.io/compressor/index.html",
+    "precache-manifest.0613ed0e12535a3ba37caf5e2a4e109b.js": "ankit-gaikar.github.io/compressor/precache-manifest.0613ed0e12535a3ba37caf5e2a4e109b.js",
+    "service-worker.js": "ankit-gaikar.github.io/compressor/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "ankit-gaikar.github.io/compressor/static/css/2.0624914a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77121b12.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.69fef3bc.chunk.js",
+    "static/js/main.1fbb46b4.chunk.js"
+  ]
+}
